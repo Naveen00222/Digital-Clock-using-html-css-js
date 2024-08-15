@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+}
+.timer{
+    color:red;
+    font-size: 50px;
+}
+h1{
+    text-align: center;
+    color:white;
+}
+.container{
+    text-align: center;
+}
